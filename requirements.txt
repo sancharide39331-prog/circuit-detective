@@ -1,6 +1,7 @@
 
 flask
-ultralytics
 opencv-python-headless
 onnxruntime
+numpy<2
 gunicorn
+
